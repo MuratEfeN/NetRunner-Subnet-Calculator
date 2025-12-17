@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "NetRunner: Next-Gen Subnet Calc",
+  "version": "1.0.0",
+  "description": "Cyberpunk aesthetic subnet calculator for modern engineers.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Open Network Command",
+    "default_icon": {
+        "128": "icon.png"
+    }
+  },
+  "permissions": [
+    "clipboardWrite"
+  ]
+}
